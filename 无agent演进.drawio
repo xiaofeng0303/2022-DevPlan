@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T01:56:14.539Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="_ihMO3QqM6z3Bs43EC62" version="19.0.3" type="github"><diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">7VpLl9ogFP41WU5PAnk4S+Njuulqek7XaDByhoSUoMb++kKCJkrSejqaqRlXwr1wgft99/KIFpwkxQtH2fobizC1gB0VFpxaADiuPZI/SrKvJIGrBTEnkW5UC17JL6yFtpZuSITzk4aCMSpIdipcsjTFS3EiQ5yz3WmzFaOno2YoxobgdYmoKf1BIrHWUsd/rhVfMYnXeugRCCrFAi3fYs42qR4vZSmuNAk6mNFrzNcoYruGCM4sOOGMiaqUFBNMlVsPHqv6zTu0xylznIpLOgDHh17VaYvoRq/cAj6V3cOIbNUcxV67xP+5URMLBS7EE6IkTi04VgjI0TCXBakrPZ2Kp7zEU2kdPyvqvrIU699yjAU/l8jZlgMfpOBkDkAuQDJAVsLdmgj8mqGl0uwkCaVsLRIqa44sojyraLEiBZbrDUtIVKlUH12vZh1TlOe6TNEC0/CI4YRRxqWqRFF2E5y94VbhgSXK+opQemhkATi3R4HtqYE4ioh015kB5bI5SghVsfIV0y0WZIm0QoeG4+t6wy6Ye2EwUYut0JhqKGDIpF+IUOY8tagt5soiHet2gilv5apRGivj3tHXTfZoQqneuGiINJteMEuw4HvZRGsD4H7RhNJhD6A2squDyNVN1o3wOciQDtv4aLvmryxoCnfT2W+h8xAoFEB/Mh71QCGKV8Ik0BCpElwr83WmvTKrdWQ+6dG0dZBLDfHSI3XWrAw+kulgkin0jQix4UHSiBFg22aQHIXvjZKRESUZVTQZBJcGl1Whfc4Z6PTPmWeDM4IkA6GMA8bjsI/0U+X3HjjjGjvxB3DGte97N95xJkH5fLvxeOY6EPxHu/GCCcGSOlBCXa/CpY9d2gX9R49jRM/e4JeKl1MitULeBFiLDAzOnZ6QKKJdzK3Zaf87O9/No2skSteA2m2D2m1F+jpAAwPo4gH07YGGft9AwwuAvssdo7cDVNeOMcC3DNc12JJvlkssgfx7cuBYnm/Qomyg/JMxkopyPl5oeVPl0Y1gufa8ean54334u6pMn9wO/DqBvlFkB88GUq0pPLhhZLe9uD8C+04Cu/1qdMvQHuqL9offHIZJF/NV27wJ3CVfPN9zgtmDL1fmi/m+u0KEbrj5XPfZTw7P51gdPjY2kPJveG4wX1VTJqSAInEJWEO7A8Ib3wGNk6LEu987oGe+iT6wvgXWnvHVxA16vu975gseZbl4YH1trKER1/1jbT7i6Uz+QLwXxNt27ivhLav1//dKXeP/kXD2Gw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-13T02:21:49.464Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="qpXHG1xhYD9AAc_zuueE" version="19.0.3" type="github">
+  <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
+    <mxGraphModel dx="1142" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="afMAK7cUd1nDVL2L3lqD-21652" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;原生镜像(iso等安装的原始镜像)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="400" y="520" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="afMAK7cUd1nDVL2L3lqD-21653" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="580" as="sourcePoint" />
+            <mxPoint x="320" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="afMAK7cUd1nDVL2L3lqD-21655" value="功&lt;br style=&quot;font-size: 18px;&quot;&gt;能&lt;br style=&quot;font-size: 18px;&quot;&gt;丰&lt;br style=&quot;font-size: 18px;&quot;&gt;富&lt;br style=&quot;font-size: 18px;&quot;&gt;程&lt;br style=&quot;font-size: 18px;&quot;&gt;度" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelPosition=center;verticalLabelPosition=middle;flipV=1;flipH=1;spacingTop=3;spacingRight=3;horizontal=1;spacing=7;spacingLeft=10;spacingBottom=7;fontSize=18;fontColor=#808080;" vertex="1" parent="1">
+          <mxGeometry x="240" y="334" width="60" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="afMAK7cUd1nDVL2L3lqD-21662" value="qemu-ga" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;opacity=50;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="310" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="afMAK7cUd1nDVL2L3lqD-21663" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;cloud-init&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;glass=0;shadow=0;opacity=50;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="420" width="330" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="afMAK7cUd1nDVL2L3lqD-21664" value="qemu-ga + cloud-init" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;opacity=50;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="190" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="afMAK7cUd1nDVL2L3lqD-21665" value="&lt;font color=&quot;#a680b8&quot;&gt;提供基础的网络能力&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#808080;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="770" y="547" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="afMAK7cUd1nDVL2L3lqD-21666" value="&lt;font color=&quot;#a680b8&quot;&gt;提供基础镜像配置初始化能力：分区扩容，user data等能力&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#808080;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="764" y="439" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="afMAK7cUd1nDVL2L3lqD-21667" value="&lt;font color=&quot;#a680b8&quot;&gt;提供一部分虚拟机在线业务更改的能力：改密码，绑定直通EIP等&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#808080;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="760" y="331" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="afMAK7cUd1nDVL2L3lqD-21668" value="&lt;font color=&quot;#a680b8&quot;&gt;提供全量产品业务逻辑&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#808080;labelBorderColor=default;" vertex="1" parent="1">
+          <mxGeometry x="760" y="210" width="140" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
